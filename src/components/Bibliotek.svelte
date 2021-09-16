@@ -20,6 +20,14 @@
         promise = getLibraryArticles();
     });
 
+    let showAll = true;
+
+    function toggleShowAll() {
+        showAll = !showAll;
+    }
+
+    $: console.log('Show all toggled to: ', showAll);
+
     let libraryArticles = [];
 </script>
 
@@ -33,11 +41,21 @@
     <h2>Välkommen till biblioteket!</h2>
     <label>
         Visa alla
-        <input name="toggle" type="radio" />
+        <input
+            name="toggle"
+            type="radio"
+            checked={showAll}
+            on:click={toggleShowAll}
+        />
     </label>
     <label>
         Visa endast utlånade
-        <input name="toggle" type="radio" />
+        <input
+            name="toggle"
+            type="radio"
+            checked={!showAll}
+            on:click={toggleShowAll}
+        />
     </label>
     {#each libraryArticles as articleData}
         <Bibliotekartikel {articleData} />
