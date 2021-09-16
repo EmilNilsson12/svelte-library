@@ -1,0 +1,184 @@
+{
+    "content": [
+        {
+            "titel": "sit-odit-consequuntur",
+            "type": "Ball",
+            "color": "orchid",
+            "latefee": "824.00",
+            "coverArt": "http://placeimg.com/640/480/fashion",
+            "lånad": true,
+            "_id": "487d6194-45d0-4b05-9879-825110a7a754",
+            "id": "1"
+        },
+        {
+            "titel": "reiciendis-officiis-aspernatur",
+            "type": "Computer",
+            "color": "ivory",
+            "latefee": "533.00",
+            "coverArt": "http://placeimg.com/640/480/nightlife",
+            "lånad": true,
+            "_id": "ddee3217-ee4e-49a8-81fa-44c4877b5eed",
+            "id": "2"
+        },
+        {
+            "titel": "ad-suscipit-earum",
+            "type": "Shirt",
+            "color": "maroon",
+            "latefee": "494.00",
+            "coverArt": "http://placeimg.com/640/480/people",
+            "lånad": true,
+            "_id": "f2763df2-f524-4aa0-9b61-4961a538184c",
+            "id": "3"
+        },
+        {
+            "titel": "rerum-qui-odio",
+            "type": "Gloves",
+            "color": "maroon",
+            "latefee": "450.00",
+            "coverArt": "http://placeimg.com/640/480/cats",
+            "lånad": true,
+            "_id": "41875450-9f10-4416-9c84-258620655d03",
+            "id": "4"
+        },
+        {
+            "titel": "quia-qui-ut",
+            "type": "Bike",
+            "color": "mint green",
+            "latefee": "262.00",
+            "coverArt": "http://placeimg.com/640/480/nightlife",
+            "lånad": false,
+            "_id": "438a316f-e209-4087-a30d-741241e5ff40",
+            "id": "5"
+        },
+        {
+            "titel": "temporibus-molestias-et",
+            "type": "Fish",
+            "color": "violet",
+            "latefee": "746.00",
+            "coverArt": "http://placeimg.com/640/480/technics",
+            "lånad": false,
+            "_id": "a61a9e58-5f28-455f-9432-98bcfdc72eda",
+            "id": "6"
+        },
+        {
+            "titel": "temporibus-illo-adipisci",
+            "type": "Chicken",
+            "color": "violet",
+            "latefee": "324.00",
+            "coverArt": "http://placeimg.com/640/480/animals",
+            "lånad": true,
+            "_id": "15ea2e78-caf9-4987-9a03-e0e65dc4d8c6",
+            "id": "7"
+        },
+        {
+            "titel": "libero-ut-repellat",
+            "type": "Mouse",
+            "color": "lavender",
+            "latefee": "882.00",
+            "coverArt": "http://placeimg.com/640/480/business",
+            "lånad": true,
+            "_id": "b1937529-cf84-48b1-9e77-a31f77a0d757",
+            "id": "8"
+        },
+        {
+            "titel": "nobis-aliquam-voluptatem",
+            "type": "Table",
+            "color": "lime",
+            "latefee": "106.00",
+            "coverArt": "http://placeimg.com/640/480/transport",
+            "lånad": false,
+            "_id": "f7fd8780-fc72-47db-9566-77c51ab02af7",
+            "id": "9"
+        },
+        {
+            "titel": "eos-tenetur-architecto",
+            "type": "Pizza",
+            "color": "ivory",
+            "latefee": "649.00",
+            "coverArt": "http://placeimg.com/640/480/people",
+            "lånad": true,
+            "_id": "c1a60299-79ef-4eec-befa-73d822aca829",
+            "id": "10"
+        },
+        {
+            "titel": "autem-nostrum-voluptate",
+            "type": "Fish",
+            "color": "black",
+            "latefee": "647.00",
+            "coverArt": "http://placeimg.com/640/480/transport",
+            "lånad": false,
+            "_id": "fc94ba8e-49cb-4a26-b4fb-6cf9221e8ee5",
+            "id": "11"
+        },
+        {
+            "titel": "nostrum-cum-ipsam",
+            "type": "Gloves",
+            "color": "gold",
+            "latefee": "181.00",
+            "coverArt": "http://placeimg.com/640/480/transport",
+            "lånad": true,
+            "_id": "9d104632-5034-4a05-9f02-dcfac7bb821e",
+            "id": "12"
+        },
+        {
+            "titel": "repellendus-iure-sed",
+            "type": "Sausages",
+            "color": "blue",
+            "latefee": "729.00",
+            "coverArt": "http://placeimg.com/640/480/abstract",
+            "lånad": true,
+            "_id": "a1f7d0a9-3b3f-4a9d-9159-8aa76ec9e5ef",
+            "id": "13"
+        },
+        {
+            "titel": "dicta-quo-sed",
+            "type": "Sausages",
+            "color": "red",
+            "latefee": "591.00",
+            "coverArt": "http://placeimg.com/640/480/people",
+            "lånad": true,
+            "_id": "b227ec98-3e0e-4b47-a911-4526dcaaa20d",
+            "id": "14"
+        },
+        {
+            "titel": "esse-aspernatur-magni",
+            "type": "Salad",
+            "color": "olive",
+            "latefee": "868.00",
+            "coverArt": "http://placeimg.com/640/480/nightlife",
+            "lånad": false,
+            "_id": "411a2a18-bd97-45cb-92d8-c5108517adbd",
+            "id": "15"
+        },
+        {
+            "titel": "est-consequatur-sint",
+            "type": "Salad",
+            "color": "teal",
+            "latefee": "645.00",
+            "coverArt": "http://placeimg.com/640/480/food",
+            "lånad": false,
+            "_id": "d448bf9d-a96d-4168-9f65-e1d415afac2c",
+            "id": "16"
+        },
+        {
+            "titel": "suscipit-id-libero",
+            "type": "Salad",
+            "color": "orange",
+            "latefee": "192.00",
+            "coverArt": "http://placeimg.com/640/480/nightlife",
+            "lånad": false,
+            "_id": "cf26114b-db09-4df0-8555-a4b81a0d2882",
+            "id": "17"
+        },
+        {
+            "titel": "est-officiis-libero",
+            "type": "Bike",
+            "color": "olive",
+            "latefee": "690.00",
+            "coverArt": "http://placeimg.com/640/480/people",
+            "lånad": false,
+            "_id": "003a146c-334d-4e33-9776-e1ffebb71804",
+            "id": "18"
+        }
+    ]
+}
