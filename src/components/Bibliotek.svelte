@@ -40,9 +40,7 @@
         <input name="toggle" type="radio" />
     </label>
     {#each libraryArticles as articleData}
-        <div>
-            <Bibliotekartikel {articleData} />
-        </div>
+        <Bibliotekartikel {articleData} />
     {/each}
 
     {#await promise}
