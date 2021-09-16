@@ -1,12 +1,12 @@
 <script>
-    export let name;
+    import Bibliotek from './components/Bibliotek.svelte';
 </script>
 
 <style>
     main {
         text-align: center;
         padding: 1em;
-        max-width: 240px;
+        max-width: 420px;
         margin: 0 auto;
     }
 
@@ -24,4 +24,6 @@
     }
 </style>
 
-<main>Hello</main>
+<main>
+    <Bibliotek />
+</main>
