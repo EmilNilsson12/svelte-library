@@ -24,7 +24,11 @@
     export let posts = [1, 2];
 </script>
 
-<style></style>
+<style>
+    pre {
+        text-align: left;
+    }
+</style>
 
 <div>
     <h2>Välkommen till biblioteket!</h2>
