@@ -2,7 +2,6 @@
     import { onMount } from 'svelte';
 
     import Bibliotekartikel from './Bibliotekartikel.svelte';
-    let libraryArticles = [];
 
     async function getLibraryArticles() {
         const res = await fetch(`http://localhost:3000/content`);
@@ -10,7 +9,7 @@
         if (res.ok) {
             console.dir(data);
             console.log(data);
-            posts = [...data];
+            libraryArticles = [...data];
             return data;
         } else {
             throw new Error(text);
@@ -21,7 +20,7 @@
         promise = getLibraryArticles();
     });
 
-    export let posts = [1, 2];
+    let libraryArticles = [];
 </script>
 
 <style>
@@ -40,7 +39,7 @@
         Visa endast utlånade
         <input name="toggle" type="radio" />
     </label>
-    {#each posts as articleData}
+    {#each libraryArticles as articleData}
         <div>
             <Bibliotekartikel {articleData} />
         </div>
