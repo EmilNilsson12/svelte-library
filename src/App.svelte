@@ -12,7 +12,6 @@
     h1 {
         color: #ff3e00;
         text-transform: uppercase;
-        font-size: 4em;
         font-weight: 100;
     }
 
@@ -24,5 +23,6 @@
 </style>
 
 <main>
+    <h1>Biblioteket Online - <i>Ditt bibliotek online</i></h1>
     <Bibliotek />
 </main>
