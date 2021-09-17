@@ -24,7 +24,7 @@
     <span>
         <em>{articleData.titel}</em> of type: <u>{articleData.type}</u>
     </span>
-    <button disabled={articleData.lånad}
-        >{articleData.lånad ? 'Utlånad' : 'Låna'}</button
+    <button disabled={articleData.utlånad}
+        >{articleData.utlånad ? 'Utlånad' : 'Låna'}</button
     >
 </div>
